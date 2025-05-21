@@ -537,7 +537,7 @@ project=hello-world make call-contract
 
 Done✅ You could see some transactions there!
 
-![image](https://github.com/user-attachments/assets/c6303c17-df13-40f3-a49f-fede0fdcf173)
+![image](https://github.com/user-attachments/assets/d1f52817-2556-4065-a530-fb53985f0b11)
 
 
 
