@@ -597,6 +597,4 @@ sudo rm -rf infernet-container-starter
 
 👉 Join TG for more Updates: https://t.me/CryptoVerseHindi
 
-If U have any issue then open a issue on this repo or Dm me on TG~
-
 Thank U! 👨🏻‍💻 
