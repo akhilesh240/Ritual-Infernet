@@ -14,7 +14,7 @@
 
 -Docker Desktop
 
--Evm wallet with minimum 5$ of BASE ETH
+-Evm wallet with minimum 2-5$ of BASE ETH
 
 -Base Mainnet Rpc URL from ALCHEMY 
 
