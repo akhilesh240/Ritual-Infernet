@@ -523,7 +523,7 @@ project=hello-world make deploy-contracts
 
 * Edit your SaysGM Contract with your actual one-
 
-![image](https://github.com/user-attachments/assets/5c8a4513-1c04-4672-a1e8-6c29f9b07cdb)
+![image](https://github.com/user-attachments/assets/51049165-2fd0-4390-a784-1b2848d9f0f9)
 
 * `ctrl+x` , `Y` + `Enter` to save
 
