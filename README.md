@@ -487,7 +487,7 @@ docker compose -f infernet-container-starter/deploy/docker-compose.yaml up -d
 docker ps
 ```
 
-![image](https://github.com/user-attachments/assets/887d4f3c-0f2b-491c-8572-06cfce78926a)
+![image](https://github.com/user-attachments/assets/85fdaee4-bc6e-43f3-beba-444866dac0c5)
 
 
 
@@ -506,7 +506,7 @@ project=hello-world make deploy-contracts
 
 🔺 Congo Contract Deploy Done✅ Save the Contract Address-
 
-![image](https://github.com/user-attachments/assets/4cfa9d1c-3420-44df-944d-ac3ff6666a8f)
+![image](https://github.com/user-attachments/assets/19c553db-5d51-4115-ae1e-22847c9498b1)
 
 
 ![image](https://github.com/user-attachments/assets/a2c3ea3d-5354-402b-b4de-576e5f396a1d)
