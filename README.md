@@ -107,7 +107,7 @@ docker pull ritualnetwork/hello-world-infernet:latest
 project=hello-world make deploy-container
 ```
 
-![image](https://github.com/user-attachments/assets/82572d5f-86f9-4cca-aa85-164b8313c5ac)
+![image](https://github.com/user-attachments/assets/b746ac46-5c03-4cd1-aa1a-6c7b216d2e5d)
 
 * Open a New Terminal/termius Tab for further Process-
 
